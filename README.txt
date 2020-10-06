@@ -5,7 +5,6 @@ Code & data for the figures in Penn & Holloway. The following is a quick descrip
  AQS_Data.zip 
 --------------
 Contains AQS data for 2007. Downloaded from the old javascript AQS datamart interface. 
-*** You'll need to unzip this for the code to work (it's too big for GitHub). *** 
 
 ------------
  level3data
