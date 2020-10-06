@@ -2,7 +2,7 @@
 Code & data for the figures in Penn & Holloway. The following is a quick description of each folder. Each folder has its own README with a description of its contents and how to use it. 
 
 --------------
- AQS_Data.zip 
+ AQS_Data
 --------------
 Contains AQS data for 2007. Downloaded from the old javascript AQS datamart interface. 
 
